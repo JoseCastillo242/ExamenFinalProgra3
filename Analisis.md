@@ -1,6 +1,7 @@
-Todas las imagenes estan dentro de la carpeta imagenes
+#Todas las imagenes estan dentro de la carpeta imagenes
 
-Analisis
+##Analisis
+
 A. En el desarrollo se diseño pensando en los productos y la creacion de los mismo usando las estructuras mas simples que permitan a toda la api funcional para que sea mucho mas simple ademas de implementar dto para evitar que se guarden en la base de datos cosas repetidas o innecesarias.
 
 B.
